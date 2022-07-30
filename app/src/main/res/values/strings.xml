@@ -1,0 +1,14 @@
+<resources>
+
+    <!--    MainActivity - Strings-->
+    <string name="app_name">Simple Expense Logging</string>
+    <string name="enter_the_details_for_social_account">Enter the Details for Expenses</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expenseDescription">Where did you spend Wisely?</string>
+    <string name="signUp">Log the Expense</string>
+
+    <!--    User Data Show Activity - Strings-->
+    <string name="showUserData">TextView</string>
+    <string name="textview">TextView</string>
+
+</resources>
